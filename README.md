@@ -4,5 +4,5 @@ Python Using Dep of Justic/FBI CDE to Search Crimal Characteristics and Location
 <h4>Credential</h4>
 
 <ul>
-  <li> CDE: https://www.justice.gov/developer <li>
+  <li> CDE: https://www.justice.gov/developer </li>
 </ul>
